@@ -1,0 +1,23 @@
+.container {
+    margin: 5px;
+    border: solid white;
+}
+
+.jumbotron {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+
+
+.panel {
+    border: solid blue;
+    border-radius: 10px;
+
+}
+.panel-heading {
+    height: 35px;
+    color: white;
+}
+
